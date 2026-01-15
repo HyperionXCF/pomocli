@@ -8,3 +8,5 @@
 # tech use 
 - clack.js for modern and sleek cli
 - nodejs 
+
+# screenshots
