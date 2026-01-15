@@ -1,6 +1,6 @@
 # pomocli
-## pomocli is a cli based pomodoro timer application 
+- pomocli is a cli based pomodoro timer application 
 
 # usage
-## clone the repo 
-## npm run focus command to start cli  
+- clone the repo
+- npm run focus command to start cli  
