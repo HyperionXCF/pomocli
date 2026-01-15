@@ -5,7 +5,7 @@
 - clone the repo
 - npm run focus command to start cli  
 
-# tech use 
+# tech used 
 - clack.js for modern and sleek cli
 - nodejs 
 
