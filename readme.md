@@ -11,7 +11,5 @@
 
 # screenshots
 ![focus session](./screenshots/one.png)
-<hr/>
 ![break session](./screenshots/two.png)
-<hr/>
 ![session complete](./screenshots/three.png)
