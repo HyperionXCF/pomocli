@@ -10,3 +10,6 @@
 - nodejs 
 
 # screenshots
+![focus session](./screenshots/one.png)
+![break session](./screenshots/two.png)
+![session complete](./screenshots/three.png)
